@@ -756,9 +756,9 @@ img {
     bottom: auto; }
 
 .hero {
-  min-height: 320px;
+  min-height: 120px;
   background-color: #000000;
-  background-image: url("../images/note-wrangler-hero.jpg");
+  background-image: url("../images/logo.png");
   background-position: center;
   background-repeat: no-repeat; }
 
